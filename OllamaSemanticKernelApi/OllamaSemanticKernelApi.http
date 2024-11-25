@@ -1,0 +1,6 @@
+@OllamaSemanticKernelApi_HostAddress = http://localhost:5188
+
+GET {{OllamaSemanticKernelApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
